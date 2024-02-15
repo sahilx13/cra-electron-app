@@ -1,0 +1,28 @@
+{
+  "name": "cra-electron-app",
+  "version": "1.0.0",
+  "description": "Boilerplate code to test out the latest electron app",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sahilx13/cra-electron-app.git"
+  },
+  "keywords": [
+    "electron",
+    "cra",
+    "react"
+  ],
+  "author": "sahilx13",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sahilx13/cra-electron-app/issues"
+  },
+  "homepage": "https://github.com/sahilx13/cra-electron-app#readme",
+  "devDependencies": {
+    "electron": "^28.2.3"
+  }
+}
